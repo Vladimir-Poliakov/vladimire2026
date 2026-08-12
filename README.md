@@ -1,37 +1,81 @@
-Hi! I'm Vladimir Poliakov.
+# Vladimir Poliakov
 
-I’m starting my journey in **Cloud, DevOps, and backend automation**, focusing on building a strong foundation through hands-on practice rather than just theory.
+### Junior Cloud Engineer | Junior DevOps Engineer | Cloud Operations
 
-I actively learn and practice **Linux, Bash, Python, Git, networking fundamentals and CI/CD concepts**, while building small but practical projects that reflect real DevOps workflows — automation, monitoring, scripting, and troubleshooting.
+I am building practical experience in Linux administration, cloud technologies, automation and DevOps.
 
-I enjoy working close to infrastructure, automating repetitive tasks, understanding how systems work under the hood, and improving reliability through simple but effective tooling.
+My current focus is on developing hands-on skills with Linux, networking, Docker, Kubernetes, Terraform, Python, Bash and CI/CD.
 
-Currently based in **Novi Sad, Serbia**.
+## Technical Skills
 
----
+**Operating Systems**
+- Linux
+- Ubuntu
+- systemd
+- Linux troubleshooting
 
-### 🔧 What I’m currently working with
+**Cloud & Infrastructure**
+- AWS fundamentals
+- Terraform
+- Infrastructure as Code
+- Virtualization
 
-- **Linux** (Ubuntu, filesystem, permissions, processes, networking utilities)
-- **Bash** (automation scripts, conditions, loops, pipelines)
-- **Python** (automation, monitoring scripts, logging, subprocess)
-- **Git & GitHub** (clean workflow, meaningful commits, SSH authentication)
-- **Networking fundamentals** (TCP/IP, OSI model, DNS, ICMP, HTTP, SSH)
-- **Automation mindset** (exit codes, script orchestration, monitoring logic)
-- **Virtualization** (VirtualBox / WSL)
+**Containers**
+- Docker
+- Docker Compose
+- Kubernetes
+- NGINX
 
----
+**Automation**
+- Python
+- Bash
+- Shell scripting
+- REST APIs
 
-### 🚀 What I’m building
+**CI/CD**
+- GitHub Actions
+- Git
+- GitHub
+- automated testing
 
-- Python-based service monitoring (ping + HTTP checks)
-- Bash scripts for orchestration and automation
-- JSON-based configuration and structured logging
-- Small DevOps-style projects designed to be usable in:
-  - cron jobs
-  - CI/CD pipelines
-  - containerized environments
+**Testing**
+- unittest
+- unittest.mock
+- API testing
+- HTTP request mocking
 
-I’m continuously learning, improving, and expanding this setup step by step — with Docker, CI/CD, and cloud tooling coming next.
+## Featured Work
 
-Contact me: [email](mailto:vladimirrpolyakovv@gmail.com)
+### Python API Testing
+REST API integration and unit testing with Python, Requests and unittest.
+
+### Flask Docker Application
+Containerized Flask application using Docker and Docker Compose with GitHub API integration.
+
+### Python Archive Cleaner
+Python automation tool for ZIP archive processing, filesystem operations and logging.
+
+### Bash File Transfer Tool
+Linux command-line utility written in Bash for file upload and download operations.
+
+### Kubernetes Practice
+Hands-on Kubernetes deployment and service configuration.
+
+### Terraform + Docker
+Infrastructure as Code practice using Terraform and Docker.
+
+## Current Learning
+
+- Linux administration
+- Networking
+- Docker
+- Kubernetes
+- Terraform
+- Cloud fundamentals
+- CI/CD
+- Python automation
+- Bash scripting
+
+## Goal
+
+Looking for a Junior Cloud, Cloud Operations or Junior DevOps opportunity where I can contribute, learn from experienced engineers and grow through real infrastructure and cloud projects.
