@@ -1,123 +1,151 @@
 # Vladimir Poliakov
 
-## Junior DevOps Engineer
+## Junior DevOps / Cloud Engineer
 
-Linux · Docker · Python · Bash · Networking · Git
+I am a Junior DevOps / Cloud Engineer focused on Linux, automation, containers, networking and infrastructure technologies.
 
-I am a Junior DevOps Engineer developing hands-on experience in Linux administration, containerization, automation and networking.
+I develop practical projects as part of my Cloud & DevOps training and personal learning, focusing on hands-on implementation, troubleshooting and automation.
 
-My practical experience includes Linux administration, Docker, Bash and Python automation, networking, systemd, Nginx, Apache, Git and GitHub.
+### 🛠️ Technologies
 
-## Technical Skills
-
-- Linux — Ubuntu, Debian
-- Docker, Docker Compose
+- Linux
 - Bash
 - Python
-- Git, GitHub
-- Networking
-- TCP/IP
-- DNS
-- HTTP/HTTPS
-- SSH
-- Static routing
-- NAT
-- iptables
-- systemd
-- cron
-- logrotate
+- Git / GitHub
+- Docker / Docker Compose
+- Kubernetes
+- Terraform
+- GitHub Actions
+- REST APIs
 - Nginx
-- Apache
-- Docker Compose
+- systemd
+- Networking
+- iptables
+- SSH
+
+### 🚀 Projects
+
+#### Python API Testing & GitHub API Integration
+
+Python project demonstrating REST API integration with the GitHub Pull Requests API.
+
+Technologies:
+
+- Python
+- Requests
+- unittest
+- unittest.mock
+- REST API
+- JSON
+- environment variables
 - GitHub Actions
 
-## Projects
+The project includes mocked API requests and automated tests for API responses, request parameters, HTTP headers and Bearer token authentication.
 
-### Linux Network Router Lab
+#### Flask Application Containerization
 
-Configured a Linux VM as a NAT router between virtual networks.
+A Flask application packaged and run using Docker and Docker Compose.
 
-Practiced:
+Technologies:
 
-- Static IP configuration
+- Python
+- Flask
+- Docker
+- Docker Compose
+- REST API
+
+#### Python Archive Cleaner
+
+Python automation utility for ZIP archive processing and filesystem cleanup.
+
+The project demonstrates:
+
+- ZIP archive extraction
+- recursive filesystem processing
+- validation of Python package directories
+- file and directory management
+- logging
+- archive rebuilding
+
+#### Bash File Transfer CLI Tool
+
+Bash command-line tool for uploading and downloading files using curl.
+
+Features:
+
+- file upload
+- file download
+- command-line flags
+- help and version commands
+- input validation
+- error handling
+
+#### Linux Network Router Lab
+
+Linux networking lab using VirtualBox.
+
+The project demonstrates:
+
+- static IP configuration
+- routing
 - IP forwarding
 - NAT
 - iptables
-- Routing
-- Network troubleshooting
+- network troubleshooting
 
-### Docker Container Practice
+#### Terraform + Docker
 
-Installed Docker CE from the official repository and practiced:
+Infrastructure as Code practice using Terraform and the Docker provider.
 
-- Docker images
-- Containers
-- Container inspection
-- Shared PID namespaces
-- Docker CLI
+The project demonstrates:
 
-### Python Archive Cleaner
+- Terraform provider configuration
+- Docker image management
+- Docker container creation
+- port mapping
+- declarative infrastructure
 
-Python automation tool for ZIP archive processing.
+#### Kubernetes
 
-The project:
+Kubernetes practice using an Nginx deployment.
 
-- Extracts ZIP archives
-- Analyzes directory structures
-- Removes directories without `__init__.py`
-- Creates cleanup reports
-- Rebuilds the archive
-- Uses logging and temporary directories
+The project demonstrates:
 
-### Python API Testing
+- Deployments
+- replicas
+- labels
+- selectors
+- container configuration
+- container ports
 
-Python project for REST API integration and automated testing.
+### 🔧 DevOps Practice
 
-Practiced:
-
-- REST API requests
-- JSON processing
-- Environment variables
-- Bearer authentication
-- unittest
-- unittest.mock
-- Mocking external HTTP requests
-
-### Flask Docker Application
-
-Containerized Flask application using Docker and Docker Compose.
-
-Practiced:
-
-- Dockerfile creation
-- Docker image building
-- Docker Compose
-- Python dependencies
-- Flask
-- REST API integration
-
-### Custom systemd Service
-
-Created a custom systemd service for a Bash automation script with automatic startup.
-
-## CI/CD
-
-I also practice CI/CD automation using GitHub Actions.
-
-The repository contains workflows for automated checks and Python testing.
-
-## Current Focus
+My learning repository contains practical exercises covering:
 
 - Linux administration
-- Docker and containerization
-- Networking
+- networking
+- Bash automation
 - Python automation
-- Bash scripting
-- CI/CD
+- Docker
+- Nginx
 - Kubernetes
 - Terraform
-- Cloud fundamentals
+- systemd
+- SSH
+- troubleshooting
+- CI/CD
+- GitHub Actions
 
-## Career Goal
+### 📚 Learning Approach
 
-Looking for a Junior DevOps Engineer, Junior Cloud Engineer or Cloud Operations role where I can contribute to real infrastructure projects and continue developing my skills.
+My approach is practical:
+
+Learn → Build → Test → Troubleshoot → Fix → Verify → Document
+
+I focus on understanding how systems work and developing the ability to troubleshoot problems rather than only memorizing commands.
+
+### 📫 Contact
+
+- GitHub: https://github.com/Vladimir-Poliakov
+- LinkedIn: https://www.linkedin.com/in/vladimir-poliakov-devops
+- Location: Novi Sad, Serbia
