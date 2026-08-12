@@ -1,81 +1,123 @@
 # Vladimir Poliakov
 
-### Junior Cloud Engineer | Junior DevOps Engineer | Cloud Operations
+## Junior DevOps Engineer
 
-I am building practical experience in Linux administration, cloud technologies, automation and DevOps.
+Linux · Docker · Python · Bash · Networking · Git
 
-My current focus is on developing hands-on skills with Linux, networking, Docker, Kubernetes, Terraform, Python, Bash and CI/CD.
+I am a Junior DevOps Engineer developing hands-on experience in Linux administration, containerization, automation and networking.
+
+My practical experience includes Linux administration, Docker, Bash and Python automation, networking, systemd, Nginx, Apache, Git and GitHub.
 
 ## Technical Skills
 
-**Operating Systems**
-- Linux
-- Ubuntu
-- systemd
-- Linux troubleshooting
-
-**Cloud & Infrastructure**
-- AWS fundamentals
-- Terraform
-- Infrastructure as Code
-- Virtualization
-
-**Containers**
-- Docker
-- Docker Compose
-- Kubernetes
-- NGINX
-
-**Automation**
-- Python
+- Linux — Ubuntu, Debian
+- Docker, Docker Compose
 - Bash
-- Shell scripting
-- REST APIs
-
-**CI/CD**
+- Python
+- Git, GitHub
+- Networking
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- SSH
+- Static routing
+- NAT
+- iptables
+- systemd
+- cron
+- logrotate
+- Nginx
+- Apache
+- Docker Compose
 - GitHub Actions
-- Git
-- GitHub
-- automated testing
 
-**Testing**
-- unittest
-- unittest.mock
-- API testing
-- HTTP request mocking
+## Projects
 
-## Featured Work
+### Linux Network Router Lab
 
-### Python API Testing
-REST API integration and unit testing with Python, Requests and unittest.
+Configured a Linux VM as a NAT router between virtual networks.
 
-### Flask Docker Application
-Containerized Flask application using Docker and Docker Compose with GitHub API integration.
+Practiced:
+
+- Static IP configuration
+- IP forwarding
+- NAT
+- iptables
+- Routing
+- Network troubleshooting
+
+### Docker Container Practice
+
+Installed Docker CE from the official repository and practiced:
+
+- Docker images
+- Containers
+- Container inspection
+- Shared PID namespaces
+- Docker CLI
 
 ### Python Archive Cleaner
-Python automation tool for ZIP archive processing, filesystem operations and logging.
 
-### Bash File Transfer Tool
-Linux command-line utility written in Bash for file upload and download operations.
+Python automation tool for ZIP archive processing.
 
-### Kubernetes Practice
-Hands-on Kubernetes deployment and service configuration.
+The project:
 
-### Terraform + Docker
-Infrastructure as Code practice using Terraform and Docker.
+- Extracts ZIP archives
+- Analyzes directory structures
+- Removes directories without `__init__.py`
+- Creates cleanup reports
+- Rebuilds the archive
+- Uses logging and temporary directories
 
-## Current Learning
+### Python API Testing
+
+Python project for REST API integration and automated testing.
+
+Practiced:
+
+- REST API requests
+- JSON processing
+- Environment variables
+- Bearer authentication
+- unittest
+- unittest.mock
+- Mocking external HTTP requests
+
+### Flask Docker Application
+
+Containerized Flask application using Docker and Docker Compose.
+
+Practiced:
+
+- Dockerfile creation
+- Docker image building
+- Docker Compose
+- Python dependencies
+- Flask
+- REST API integration
+
+### Custom systemd Service
+
+Created a custom systemd service for a Bash automation script with automatic startup.
+
+## CI/CD
+
+I also practice CI/CD automation using GitHub Actions.
+
+The repository contains workflows for automated checks and Python testing.
+
+## Current Focus
 
 - Linux administration
+- Docker and containerization
 - Networking
-- Docker
+- Python automation
+- Bash scripting
+- CI/CD
 - Kubernetes
 - Terraform
 - Cloud fundamentals
-- CI/CD
-- Python automation
-- Bash scripting
 
-## Goal
+## Career Goal
 
-Looking for a Junior Cloud, Cloud Operations or Junior DevOps opportunity where I can contribute, learn from experienced engineers and grow through real infrastructure and cloud projects.
+Looking for a Junior DevOps Engineer, Junior Cloud Engineer or Cloud Operations role where I can contribute to real infrastructure projects and continue developing my skills.
